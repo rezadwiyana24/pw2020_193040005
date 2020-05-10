@@ -1,0 +1,56 @@
+body{
+  font-family:arial;
+  background:linear-gradient(to right bottom, rgb(204, 204, 204), #818181, #444444, #242424);
+
+}
+img{
+  filter : grayscale(100%);
+  opacity : 50%;
+}
+img:hover {
+  filter : saturate(150%);
+  opacity : 100%;
+}
+table {
+  margin: auto;
+  font-size : 20px;
+  text-align: center;
+  border : 5px dashed black;
+  width: 100%;
+}
+.thead{
+  background-color: #eb00009c;
+}
+.title_table{
+  background-color: #eb00009c;
+}
+.no{
+  background-color:#ebe4e1;
+}
+.opsi{
+  background-color: #ebe4e1;
+}
+.ubah button{
+  background-color: green;
+  color: whitesmoke;
+}
+.hapus button{
+  background-color: red;
+  color: whitesmoke;
+}
+.foto{
+  background-color: #ffffff;
+  
+}
+.foto img{
+  width: 250px;
+  height:250px;
+}
+.merek{
+  background-color: #ebe4e1;
+  color:rgb(0, 0, 0);
+  font-weight:bold;
+}
+.ukuran{
+  background-color: #ebe4e1;
+}
