@@ -1,0 +1,33 @@
+/*style*/
+body{
+	font:14px/18px arial,sans-serif;
+	background-image:url(1.jpg);
+}
+.header{
+padding: 20px;
+padding-bottom: 10px;
+}
+.header ul li {
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.header a{
+	text-decoration: none;
+	color: #749e97;
+	padding: 3px;
+
+}
+.content{
+	padding: 20px;
+}
+.footer {
+  background-color:#749e97;
+   padding:2px;
+
+}
+.footer {
+  background-color: #749e97;
+   padding:2px;
+
+}
